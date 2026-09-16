@@ -1,0 +1,5 @@
+D:/Files/Game Dev/Projects/Unity/Portal_AR/.utmp/RelWithDebInfo/2229651w/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Files/Game Dev/Projects/Unity/Portal_AR/.utmp/RelWithDebInfo/2229651w/arm64-v8a/CMakeFiles/rebuild_cache.dir
+D:/Files/Game Dev/Projects/Unity/Portal_AR/.utmp/RelWithDebInfo/2229651w/arm64-v8a/GameActivity/CMakeFiles/game.dir
+D:/Files/Game Dev/Projects/Unity/Portal_AR/.utmp/RelWithDebInfo/2229651w/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+D:/Files/Game Dev/Projects/Unity/Portal_AR/.utmp/RelWithDebInfo/2229651w/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
