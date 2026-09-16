@@ -86,6 +86,7 @@ The Unity directory contains multiple projects covering different areas of game 
 - Project-specific `.gitignore` files are preserved.
 - The original project structure has been retained wherever possible.
 - `Minor_Project-1` is intentionally not included in this repository because it is maintained in a separate repository.
+- Unity versions used across the projects: `2022.3.18f1`, `2022.3.55f1`, and `6000.0.32f1`.
 
 ## Archive
 
