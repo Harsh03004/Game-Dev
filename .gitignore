@@ -1,0 +1,24 @@
+# Generated IDE data
+.vs/
+.vscode/
+
+# Generated Visual Studio build files
+**/[Dd]ebug/
+**/[Rr]elease/
+**/x64/
+**/x86/
+**/*.pdb
+**/*.ilk
+**/*.tlog
+**/*.idb
+**/*.ipch
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
