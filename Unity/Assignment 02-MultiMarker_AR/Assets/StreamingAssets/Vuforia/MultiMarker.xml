@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="charmeleon" size="10.000000 13.944223" />
+    <ImageTarget name="charmander" size="10.000000 13.927577" />
+    <ImageTarget name="charizard" size="10.000000 13.953488" />
+  </Tracking>
+</QCARConfig>
